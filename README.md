@@ -1,4 +1,4 @@
-Mockup to Website
+Convert Mockup to a Website
 ==
 
 Udacity Front-End Web Developer Nanodegree Project 1: Mockup to Website
